@@ -7,7 +7,7 @@
 	      -<a href="https://www.facebook.com/joel.martins.948011"> Facebook </a><br>
 	      -<a href="https://twitter.com/JoelTM11"> Twitter </a><br>
 	      -<a href="https://www.linkedin.com/in/joel-martins-843bbb14a/"> Linkedln </a><br>
-	      -<a href="mailto:joeltavaresmartins10@gmail.com"> Linkedln </a><br>
+	      -<a href="mailto:joeltavaresmartins10@gmail.com"> Gmail </a><br>
 	  
 <center>💪One day or Day 1. U decide💪</center>
 
