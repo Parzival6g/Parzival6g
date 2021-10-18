@@ -1,5 +1,4 @@
-<h2> Hi, I'm Joel Tavares Martins! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif?cid=ecf05e4781vvm8vu436rvw0d0eykzdrrf3lu3yrarprgdfpq&rid=giphy.gif&ct=s" width="50"></h2>
+<h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif" width="50"></h2>
 
 - 👋 Hi, I’m @Parzival6g
 - 👀 I’m interested in learn how to code.
