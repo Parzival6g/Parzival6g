@@ -8,6 +8,7 @@
 	      -<a href="https://twitter.com/JoelTM11"> Twitter </a><br>
 	      -<a href="https://www.linkedin.com/in/joel-martins-843bbb14a/"> Linkedln </a><br>
 	      -<a href="mailto:joeltavaresmartins10@gmail.com"> Gmail </a><br>
+	 <img src="https://img.shields.io/twitter/follow/JoelTM11?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
 	  
 <center>💪One day or Day 1. U decide💪</center>
 
