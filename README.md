@@ -9,6 +9,8 @@
 	      -<a href="https://www.linkedin.com/in/joel-martins-843bbb14a/"> Linkedln </a><br>
 	      -<a href="mailto:joeltavaresmartins10@gmail.com"> Gmail </a><br>
 	 <img src="https://img.shields.io/twitter/follow/JoelTM11?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+	 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parzival6g&show_icons=true&theme=tokyonight" />
+  	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parzival6g&theme=tokyonight" />
 	  
 <center>💪One day or Day 1. U decide💪</center>
 
