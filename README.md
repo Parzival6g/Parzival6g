@@ -1,4 +1,5 @@
 <h2> Hi, I'm Joel Tavares Martins! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/fXnKP8CfISrfaILSBJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/futureclassic-gflip-music-ying-yang-fXnKP8CfISrfaILSBJ">via GIPHY</a></p>
 - 👋 Hi, I’m @Parzival6g
 - 👀 I’m interested in learn how to code.
 - 🌱 I’m currently learning C, CSS, PHP, Java.
@@ -12,6 +13,7 @@
 	 <img src="https://img.shields.io/twitter/follow/JoelTM11?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
 	 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parzival6g&show_icons=true&theme=tokyonight" />
   	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parzival6g&theme=tokyonight" />
+	
 	  
 <center>💪One day or Day 1. U decide💪</center>
 
