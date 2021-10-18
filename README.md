@@ -1,5 +1,11 @@
 <h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif" width="50"></h2>
 
+<p>Current Date and Time is <span id='date-time'></span>.</p>
+<script>
+var dt = new Date();
+document.getElementById('date-time').innerHTML=dt;
+</script>
+
 - 👋 Hi, I’m @Parzival6g
 - 👀 I’m interested in learn how to code.
 - 🌱 I’m currently learning C, CSS, PHP, Java.
