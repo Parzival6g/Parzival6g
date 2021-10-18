@@ -1,5 +1,6 @@
 <h2> Hi, I'm Joel Tavares Martins! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/fXnKP8CfISrfaILSBJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/futureclassic-gflip-music-ying-yang-fXnKP8CfISrfaILSBJ">via GIPHY</a></p>
+<h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif?cid=ecf05e4781vvm8vu436rvw0d0eykzdrrf3lu3yrarprgdfpq&rid=giphy.gif&ct=s" width="50"></h2>
+
 - 👋 Hi, I’m @Parzival6g
 - 👀 I’m interested in learn how to code.
 - 🌱 I’m currently learning C, CSS, PHP, Java.
