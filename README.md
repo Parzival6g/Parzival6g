@@ -1,10 +1,10 @@
 <h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif" width="50"></h2>
 
-<p>Current Date and Time is <span id='date-time'></span>.</p>
-<script>
-	var dt = new Date();
-	document.getElementById('date-time').innerHTML=dt;
-</script>
+<p>Date/Time: MM/DD/YYYY hh:mm<br>
+<?php echo(strftime("%m/%d/%Y %H:%M")); ?></p>
+
+<p>Date/Time: DD.MM.YYYY hh:mm (German)<br>
+<?php echo(strftime("%d.%m.%Y %H:%M")); ?></p>
 
 - 👋 Hi, I’m @Parzival6g
 - 👀 I’m interested in learn how to code.
