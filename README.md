@@ -1,6 +1,6 @@
 <style>
 	.img{
-	width:50%;
+	width:10px;
 	}
 </style>
 <h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif" width="50"></h2>
