@@ -1,11 +1,4 @@
 <h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif" width="50"></h2>
-
-<p>Date/Time: MM/DD/YYYY hh:mm<br>
-<?php echo(strftime("%m/%d/%Y %H:%M")); ?></p>
-
-<p>Date/Time: DD.MM.YYYY hh:mm (German)<br>
-<?php echo(strftime("%d.%m.%Y %H:%M")); ?></p>
-
 @Parzival6g
 - 👀 I’m interested in learn how to code.
 - 🌱 I’m currently learning C, CSS, PHP, Java.
@@ -18,9 +11,7 @@
 	      -<a href="mailto:joeltavaresmartins10@gmail.com"><img src=" https://cdn0.iconfinder.com/data/icons/picons-social/57/67-gmail-256.png "></a><br>
 	 <img src="https://img.shields.io/twitter/follow/JoelTM11?label=Twitter&logo=twitter&style=for-the-badge&color=blue" href="https://twitter.com/JoelTM11" />
 	 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parzival6g&show_icons=true&theme=tokyonight" />
-  	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parzival6g&theme=tokyonight" />
-	
-	  
+  	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parzival6g&theme=tokyonight" />  
 <center>💪One day or Day 1. U decide💪</center>
 
 <!---
