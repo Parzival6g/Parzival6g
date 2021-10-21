@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C, CSS, PHP, Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by:<br>
-		<div style="dyslay:in-line;" >
+		<div style="display:inline-block;" >
 	      -<a href="https://www.instagram.com/joeltm05/"><img style="width:100px;" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png"></a>
 	      <br>
 	      -<a href="https://www.facebook.com/joel.martins.948011"><img style="width:100px;" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Facebook_glyph_svg-256.png"></a>
