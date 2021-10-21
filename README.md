@@ -1,8 +1,8 @@
 <h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif" width="50"></h2>
-@Parzival6g
-- 👀 I’m interested in learn how to code.
-- 🌱 I’m currently learning C, CSS, PHP, Java.
-- 💞️ I’m looking to collaborate on ...
+@Parzival6g<br>
+- 👀 I’m interested in learn how to code.<br>
+- 🌱 I’m currently learning C, CSS, PHP, Java.<br>
+- 💞️ I’m looking to collaborate on ...<br>
 - 📫 Reach me by:<br>
 	<div style="display:inline-block;" >
 	      <a href="https://www.instagram.com/joeltm05/"><img style="width:100px;" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png"></a>
