@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning C, CSS, PHP, Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by:<br>
-	      -<a href="https://www.instagram.com/joeltm05/"> Instagram </a><br>
+	      -<a href="https://www.instagram.com/joeltm05/"><img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png"></a><br>
 	      -<a href="https://www.facebook.com/joel.martins.948011"> Facebook </a><br>
 	      -<a href="https://twitter.com/JoelTM11"> Twitter </a><br>
 	      -<a href="https://www.linkedin.com/in/joel-martins-843bbb14a/"> Linkedln </a><br>
