@@ -6,7 +6,7 @@
 <p>Date/Time: DD.MM.YYYY hh:mm (German)<br>
 <?php echo(strftime("%d.%m.%Y %H:%M")); ?></p>
 
-- 👋 Hi, I’m @Parzival6g
+@Parzival6g
 - 👀 I’m interested in learn how to code.
 - 🌱 I’m currently learning C, CSS, PHP, Java.
 - 💞️ I’m looking to collaborate on ...
