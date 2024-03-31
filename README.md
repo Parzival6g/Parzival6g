@@ -1,4 +1,4 @@
-<h2> Hi, I'm Joel Tavares Martins! <img src="https://media1.giphy.com/media/fXnKP8CfISrfaILSBJ/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Joel Tavares Martins! </h2>
 @Parzival6g<br>
 - 👀 I’m interested in learn how to code.<br>
 - 🌱 I’m currently learning Java, Javascript, HTML(yy that's not an programming language, stfu), CSS.<br>
