@@ -3,14 +3,6 @@
 - 👀 I’m interested in learn how to code.<br>
 - 🌱 I’m currently learning Java, Javascript, HTML(yy that's not an programming language, stfu), CSS.<br>
 -  I’m looking to collaborate on ...<br>
-- 📫 Reach me by:<br>
-	<div style="display:inline-block;" >
-	      <a href="https://www.instagram.com/joeltm05/">-Instagram</a>
-	      <a href="https://www.facebook.com/joel.martins.948011">-Facebook</a>
-	      <a href="https://twitter.com/JoelTM11"></a>
-	      <a href="https://www.linkedin.com/in/joel-martins-843bbb14a/"><img style="width:100px;" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Linkedln-256.png"></a>
-	      <a href="mailto:joeltavaresmartins10@gmail.com"><img style="width:100px;" src="https://cdn0.iconfinder.com/data/icons/picons-social/57/67-gmail-256.png"></a><br>
-	</div>
 	<div style="display:inline-block;">
 		<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parzival6g&show_icons=true&theme=tokyonight" />
 		<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parzival6g&theme=tokyonight" />  
